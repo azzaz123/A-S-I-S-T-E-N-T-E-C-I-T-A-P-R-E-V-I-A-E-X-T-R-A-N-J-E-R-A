@@ -327,7 +327,7 @@ Haz clic en **💾 GUARDAR** y la extensión comenzará a buscar automáticament
 <details>
 <summary><b>❓ ¿Funciona en el móvil?</b></summary>
 
-✅ **Sí**. Funciona en Kiwi Browser (Android) y Orion Browser (iPhone).
+✅ **Sí**. Funciona en edge Browser (Android) y Orion Browser (iPhone).
 </details>
 
 <details>
